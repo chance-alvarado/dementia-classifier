@@ -387,7 +387,7 @@ class ResultsVisualization():
                 )
 
         # Plot attributes
-        ax.set_title('Reciever Operating Charecteristic Curve',
+        ax.set_title('Receiver Operating Charecteristic Curve',
                      fontsize=18)
 
         ax.set_xlabel('False Positive Rate', fontsize=14)
